@@ -1,6 +1,13 @@
 ## Olá! Eu sou o Maycon Martins🖐️
 
-[![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://faceiro.com)
+Estou cursando Análise e Desenvolvimento de Sistema, mantendo interesse na área de desenvolvimento de software.
+
+Utilizo no meu dia as tecnologias HTML5, CSS3, Bootstrap, Javascript, Jquery, PHP, MySQL.
+
+Atualmente trabalhando com desenvolvimento {backend, frontend}
+
+
+[![Blog](https://img.shields.io/website?label=Faceiro.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://faceiro.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mayconmartinsroot/)
 
