@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Maycon Martins🖐️
 
 Estou cursando Análise e Desenvolvimento de Sistema, mantendo interesse na área de desenvolvimento de software.
+Atualmente trabalhando com desenvolvimento {backend, frontend}
 
 ## Tecnologias que eu uso no meu dia
 
@@ -13,7 +14,7 @@ Estou cursando Análise e Desenvolvimento de Sistema, mantendo interesse na áre
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Atualmente trabalhando com desenvolvimento {backend, frontend}
+
 
 
 [![Blog](https://img.shields.io/website?label=Faceiro.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://faceiro.com)
